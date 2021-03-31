@@ -1,4 +1,4 @@
-# flow_of_the_ateroma
+
 This git is created with the intention of storing my solutions of the Rosalind.info bioinformatics problems.
 
 All problems have been solved using Python 3.
